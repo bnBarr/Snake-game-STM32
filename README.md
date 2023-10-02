@@ -1,0 +1,1 @@
+#This is a Snake game implemented on the STM32 F4 development board from STMicroelectronics. You can explore the entire project's implementation code by opening the 'ADC.uvprojx' project file. This project provides an interesting approach to implementing the Snake game on a microcontroller. If you find this repository helpful, please give it a star
